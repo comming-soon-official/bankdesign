@@ -48,7 +48,7 @@ const Footer = () => (
         >
           <u>Copyrights ©2022 by Himal.B</u>
         </a>
-        HooBank. All Rights Reserved. by Himal
+        HooBank. All Rights Reserved.
       </p>
       <div className="flex flex-row md:mt-0 mt-6">
         {socialMedia.map((social, index) => (
